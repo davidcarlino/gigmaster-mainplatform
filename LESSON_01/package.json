@@ -1,0 +1,23 @@
+{
+  "name": "lesson_01",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Sergey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^22.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
